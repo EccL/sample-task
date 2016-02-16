@@ -1,0 +1,48 @@
+#body-block{
+    border:1px solid black; 
+    width:100%;
+    height:auto;
+}
+#heading-block{
+    border:1px solid black;
+    height:80px;
+}
+#central-block{
+    border:1px solid black;
+    height:350px;
+}
+#about-block{
+    border:1px solid black;
+    height:350px;
+    width:50%;
+    margin:0 auto;
+}
+#about-info{
+    border:1px solid black;
+    height:200px;
+}
+#text-cont{
+    border:1px solid black;
+    height:200px;
+    width:50%;
+    margin:0 auto;
+}
+#footer-block{
+    border:1px solid black;
+    height:80px;
+}
+#info-block-1, #info-block-2, #info-block-3{
+    border:1px solid black;
+    height:200px;
+}
+#thanks-block{
+    border:1px solid black;
+    height:120px;
+}
+#submit-block{
+    border:1px solid black;
+    height:300px;
+}
+ul{
+list-style:none;
+}
